@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://jayeliu.github.io/zh-cn/theme-documentation-basics/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/theme-documentation-basics/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/theme-documentation-basics/"
@@ -13,9 +13,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/theme-documentation-basics/"
+                    href="https://jayeliu.github.io/theme-documentation-basics/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/theme-documentation-content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/theme-documentation-content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/theme-documentation-content/"
@@ -26,9 +26,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/theme-documentation-content/"
+                    href="https://jayeliu.github.io/theme-documentation-content/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/theme-documentation-built-in-shortcodes/"
@@ -39,9 +39,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/theme-documentation-built-in-shortcodes/"
+                    href="https://jayeliu.github.io/theme-documentation-built-in-shortcodes/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/theme-documentation-extended-shortcodes/</loc><lastmod>2020-03-03T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/theme-documentation-extended-shortcodes/</loc><lastmod>2020-03-03T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/theme-documentation-extended-shortcodes/"
@@ -52,9 +52,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/theme-documentation-extended-shortcodes/"
+                    href="https://jayeliu.github.io/theme-documentation-extended-shortcodes/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/basic-markdown-syntax/"
@@ -65,9 +65,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/basic-markdown-syntax/"
+                    href="https://jayeliu.github.io/basic-markdown-syntax/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/emoji-support/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/emoji-support/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/emoji-support/"
@@ -78,9 +78,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/emoji-support/"
+                    href="https://jayeliu.github.io/emoji-support/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/categories/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/categories/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/categories/"
@@ -91,9 +91,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/categories/"
+                    href="https://jayeliu.github.io/categories/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/"
@@ -104,9 +104,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/"
+                    href="https://jayeliu.github.io/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/posts/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/posts/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/posts/"
@@ -117,9 +117,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/posts/"
+                    href="https://jayeliu.github.io/posts/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/tags/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/tags/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/tags/"
@@ -130,9 +130,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/tags/"
+                    href="https://jayeliu.github.io/tags/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/tags/installation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/tags/installation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/tags/installation/"
@@ -143,9 +143,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/tags/installation/"
+                    href="https://jayeliu.github.io/tags/installation/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/categories/documentation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/categories/documentation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/categories/documentation/"
@@ -156,9 +156,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/categories/documentation/"
+                    href="https://jayeliu.github.io/categories/documentation/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/tags/configuration/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/tags/configuration/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/tags/configuration/"
@@ -169,9 +169,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/tags/configuration/"
+                    href="https://jayeliu.github.io/tags/configuration/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/tags/markdown/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/tags/markdown/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/tags/markdown/"
@@ -182,9 +182,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/tags/markdown/"
+                    href="https://jayeliu.github.io/tags/markdown/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/tags/content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/tags/content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/tags/content/"
@@ -195,9 +195,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/tags/content/"
+                    href="https://jayeliu.github.io/tags/content/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/tags/shortcodes/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/tags/shortcodes/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/tags/shortcodes/"
@@ -208,9 +208,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/tags/shortcodes/"
+                    href="https://jayeliu.github.io/tags/shortcodes/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/tags/html/"
@@ -221,9 +221,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/tags/html/"
+                    href="https://jayeliu.github.io/tags/html/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/categories/markdown/"
@@ -234,9 +234,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/categories/markdown/"
+                    href="https://jayeliu.github.io/categories/markdown/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/tags/emoji/"
@@ -247,9 +247,9 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/tags/emoji/"
+                    href="https://jayeliu.github.io/tags/emoji/"
                     /></url><url>
-            <loc>https://jayeliu.github.io/zh-cn/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://jayeliu.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://jayeliu.github.io/en/about/"
@@ -260,5 +260,5 @@
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jayeliu.github.io/zh-cn/about/"
+                    href="https://jayeliu.github.io/about/"
                     /></url></urlset>
