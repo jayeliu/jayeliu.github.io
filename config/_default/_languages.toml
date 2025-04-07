@@ -4,3 +4,8 @@ languageName = "English"
 languagedirection = "ltr"
 title = "Example Site"
 weight = 1
+[zh-cn]
+languageName = "Simplified-Chinese"
+languagedirection = "ltr"
+title = "示例"
+weight = 1
