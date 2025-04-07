@@ -16,12 +16,12 @@ url = "https://github.com/jayeliu"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "xlog"
+name = "XLog"
+url = "https://jaeliu-6268.xlog.app/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "xlog"
 
 [[social]]
 identifier = "bilibili"
